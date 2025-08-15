@@ -21,7 +21,7 @@
   "license": "MIT",
   "homepage": "https://github.com/Aminehammou/UIButton",
   "dependencies": {
-    "UITextComponent": "*",
+    "UITextComponent": "https://github.com/Aminehammou/UITextComponent.git",
     "bodmer/TFT_eSPI": "*",
     "U8g2_for_TFT_eSPI": "*"
   }
