@@ -1,6 +1,6 @@
 {
   "name": "UIButton",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Composant bouton interactif pour l'interface utilisateur, avec gestion des états pressé, relâché et désactivé.",
   "keywords": [
     "ui",
@@ -8,8 +8,18 @@
     "button",
     "interactive"
   ],
-  "authors": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aminehammou/UIButton.git"
+  },
+  "authors": [
+    {
+      "name": "Hammou Mohammed el Amine",
+      "email": "hammouamine@gmail.com"
+    }
+  ],
   "license": "MIT",
+  "homepage": "https://github.com/Aminehammou/UIButton",
   "dependencies": {
     "UITextComponent": "*",
     "bodmer/TFT_eSPI": "*",
