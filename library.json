@@ -12,7 +12,6 @@
   "license": "MIT",
   "dependencies": {
     "UITextComponent": "*",
-    "ThemeManager": "*",
     "bodmer/TFT_eSPI": "*",
     "U8g2_for_TFT_eSPI": "*"
   }
