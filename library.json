@@ -1,0 +1,19 @@
+{
+  "name": "UIButton",
+  "version": "1.0.0",
+  "description": "Composant bouton interactif pour l'interface utilisateur, avec gestion des états pressé, relâché et désactivé.",
+  "keywords": [
+    "ui",
+    "component",
+    "button",
+    "interactive"
+  ],
+  "authors": [],
+  "license": "MIT",
+  "dependencies": {
+    "UITextComponent": "*",
+    "ThemeManager": "*",
+    "bodmer/TFT_eSPI": "*",
+    "U8g2_for_TFT_eSPI": "*"
+  }
+}
